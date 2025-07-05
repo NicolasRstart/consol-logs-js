@@ -105,3 +105,7 @@ if (encargo2.items.length === 0) {
     console.log("Encargo cancelado por el usuario.");
   }
 }
+
+//si le esto aviso es una simulacion nomas tengo planeado ver de implementarlo a mi proyecto
+//de disño web la ide tiene de intecion con referencias de delibery pero admito no es un delivery
+//si quiere ver el diseño a que lo voy a implementar pida me lo y se lo envio en la rentrega
